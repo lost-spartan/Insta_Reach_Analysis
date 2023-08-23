@@ -2,8 +2,7 @@
 
 Analyze and visualize Instagram reach and interaction data to gain insights into user engagement and content performance.
 
-![Project Screenshot](![Results merged](https://github.com/lost-spartan/Insta_Reach_Analysis/assets/80683602/c3f94c92-c3c8-4d45-8acf-bd501d53da95)
-)  <!-- Replace with an image from your project if available -->
+![Results merged](https://github.com/lost-spartan/Insta_Reach_Analysis/assets/80683602/c3f94c92-c3c8-4d45-8acf-bd501d53da95)
 
 ## Table of Contents
 
@@ -46,3 +45,8 @@ https://statso.io/wp-content/uploads/2022/10/archive.zip
 - Pandas  (pip install pandas)
 - Matplotlib  (pip install matplotlib)
 - Seaborn  (pip install seaborn)
+
+```bash
+pip install pandas
+pip install matplotlib
+pip install seaborn
