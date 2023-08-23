@@ -33,6 +33,13 @@ The Dataset used for performing the analysis was from the Instagram account of A
    git clone https://github.com/lost-spartan/Insta_Reach_Analysis.git
    cd Insta_Reach_Analysis
 
+2. Or Directly download .zip file from the code section
+
+3. Run each file on an IDE (Integrated Development Environment) such as PyCharm or Visual Studio Code or from cmd by using the command
+   ```python
+   python code.py
+   python code1.py
+
 ## Data Source
 
 Data source for this project can be found in the "Dataset" folder of the project repository or you can also download it from : 
