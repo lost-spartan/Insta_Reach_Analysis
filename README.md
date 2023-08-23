@@ -2,7 +2,7 @@
 
 Analyze and visualize Instagram reach and interaction data to gain insights into user engagement and content performance.
 
-![Results merged](https://github.com/lost-spartan/Insta_Reach_Analysis/assets/80683602/c3f94c92-c3c8-4d45-8acf-bd501d53da95)
+![Results merged]([https://github.com/lost-spartan/Insta_Reach_Analysis/assets/80683602/c3f94c92-c3c8-4d45-8acf-bd501d53da95](https://github.com/lost-spartan/Insta_Reach_Analysis/blob/main/Results/Results%20merged.png))
 
 ## Table of Contents
 
